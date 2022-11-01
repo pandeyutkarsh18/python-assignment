@@ -1,0 +1,41 @@
+1. In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+* - mathematical opeartor
+'hello' - String
+-87.8 - Float
+- mathematical operator
+/ - mathematical operator
++ mathematical operator
+6 integer
+
+Ans 2: Variables are store of information that we can use to store data in a program. We can think of them as an empty box that we fill with some data or value. Strings are data, so we can use them to fill up a variable.
+Eg
+String x ="Welcome to ineuron"
+X is the Variable, and we declared it as a String, use the single = to assign the text to it
+
+Ans 3- 1. Integer
+Integer data types often represent whole numbers in programming. An integer's value moves from one integer to another without acknowledging fractional numbers in between. The number of digits can vary based on the device, and some programming languages may allow negative values.
+
+2.String
+A string data type is a combination of characters that can be either constant or variable. This often incorporates a sequence of character data types that result in specific commands depending on the programming language. Strings can include both upper and lowercase letters, numbers and punctuation.
+
+3.Boolean data type is what programmers use to show logic in code. It's typically one of two values—true or false—intended to clarify conditional statements. These can be responses to "if/when" scenarios, where code indicates if a user performs a certain action. When this happens, the Boolean data directs the program's response, which determines the next code in the sequence.
+
+Answer 4- A combination of operands and operators is called an expression. The expression in Python produces some value or result after being interpreted by the Python interpreter. An expression in Python is a combination of operators and operands.
+
+An example of expression can be : x = x + 10x=x+10. In this expression, the first 1010 is added to the variable x. After the addition is performed, the result is assigned to the variable x.
+
+Answer 5- A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value. Expressions can be combined “horizontally” into larger expressions using operators, while statements can only be combined “vertically” by writing one after another, or with block constructs. Every expression can be used as a statement (whose effect is to evaluate the expression and ignore the resulting value), but most statements cannot be used as expressions.
+
+Answer 6- Bacon contains 23
+
+Answer 7- 'spamspamspam'
+'spamspamspam'
+
+Answer 8- Because variable names cannot begin with a number.
+
+Answer 9- int()
+float()
+str()
+
+Answer 10- This expression causes an error because in this line 'I have eaten' and 'burritos' are strings, while 99 is treated as integer. In order to fix the error and print 'I have eaten 99 burritos.', 99 needs '' around it to treat it as a string.
